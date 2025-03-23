@@ -1,0 +1,14 @@
+{
+  "requests": {
+    "v1": 1,
+    "v2": 1,
+    "v3": 1
+  },
+  "results_count": {
+    "v1": 10,
+    "v2": 12,
+    "v3": 15
+  },
+  "total_requests": 3,
+  "total_unique_records": 37
+}
